@@ -1,4 +1,4 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=abdalmoniem&label=Profile%20views&color=0e75b6)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=a-elhifnawy&label=Profile%20views&color=0e75b6)](#)
 
 # Hi 👋, I'm AbdAlMoniem AlHifnawy
 
@@ -6,9 +6,9 @@
 
 - 💬 Ask me about **Data Structures, Algorithms, Embedded Systems, Android Development, Game Development, Operating Systems, etc...**
 
-- 📫 How to reach me <a href="mailto:abdalmoniemalhifnawy@gmail.com">**abdalmoniemalhifnawy@gmail.com**</a>
+- 📫 How to reach me <a href="mailto: abdelmoniem.elhifnawy@nordicsemi.no">**abdelmoniem.elhifnawy@nordicsemi.no**</a>
 
-- 📄 Know about my experiences **[abdalmoniem.github.io](abdalmoniem.github.io)**
+- 📄 Know about my experiences **[https://abdalmoniem-alhifnawy.is-a.dev](https://abdalmoniem-alhifnawy.is-a.dev)**
 
 - ⚡ Fun fact **I love fishing 🎣**
 
@@ -24,9 +24,9 @@
 
 # GitHub Stats:
 
-[![GitHub Stats](https://github-profile-trophy.vercel.app/?username=abdalmoniem&theme=matrix&column=3&margin-w=5&margin-h=5&no-bg=true&text_color=00ff00)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalmoniem&langs_count=50&layout=compact&size_weight=0.5&count_weight=5&border_radius=10&theme=blue-green&title_color=00b3ff&text_color=00ff00)](#)
+[![GitHub Stats](https://github-profile-trophy.vercel.app/?username=a-elhifnawy&theme=matrix&column=3&margin-w=5&margin-h=5&no-bg=true&text_color=00ff00)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-elhifnawy&langs_count=50&layout=compact&size_weight=0.5&count_weight=5&border_radius=10&theme=blue-green&title_color=00b3ff&text_color=00ff00)](#)
 
-[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=abdalmoniem&theme=transparent&border_radius=10&mode=daily&exclude_days=Mon,Tue,Wed,Thu,Fri&excludeDaysLabel=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&fire=ff8800&ring=ff8800&text_color=00ff00)](#)
+[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=a-elhifnawy&theme=transparent&border_radius=10&mode=daily&exclude_days=Mon,Tue,Wed,Thu,Fri&excludeDaysLabel=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&fire=ff8800&ring=ff8800&text_color=00ff00)](#)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdalmoniem&show_icons=true&theme=blue-green&locale=en&border_radius=10&text_color=00ff00&rank_icon=percentile&include_all_commits=true&show=reviews,discussions_started,discussions_answered)](#)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-elhifnawy&show_icons=true&theme=blue-green&locale=en&border_radius=10&text_color=00ff00&rank_icon=percentile&include_all_commits=true&show=reviews,discussions_started,discussions_answered)](#)
